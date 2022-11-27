@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 15 18:19:17 2022
 
-@author: michael de guzman
+Property of KAPED INC.
 """
 
 # import libraries
